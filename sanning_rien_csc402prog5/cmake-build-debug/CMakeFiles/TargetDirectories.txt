@@ -1,0 +1,3 @@
+/Users/benjaminsanning/CLionProjects/sanning_rien_csc402prog5/cmake-build-debug/CMakeFiles/sanning_rien_csc402prog5.dir
+/Users/benjaminsanning/CLionProjects/sanning_rien_csc402prog5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/benjaminsanning/CLionProjects/sanning_rien_csc402prog5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

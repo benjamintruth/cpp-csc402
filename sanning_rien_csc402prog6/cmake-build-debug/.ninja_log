@@ -1,0 +1,26 @@
+# ninja log v6
+11	2626	1731365277146880356	CMakeFiles/sanning_rien_csc402prog6.dir/MyQueue.cpp.o	caea2ce0c13136ae
+14	1080	1731365422966818935	CMakeFiles/sanning_rien_csc402prog6.dir/MyQueue.cpp.o	caea2ce0c13136ae
+9	891	1731365494117318281	CMakeFiles/sanning_rien_csc402prog6.dir/MyQueue.cpp.o	caea2ce0c13136ae
+21	1134	1731365612519354832	CMakeFiles/sanning_rien_csc402prog6.dir/MyQueue.cpp.o	caea2ce0c13136ae
+10	1170	1731365667761071728	CMakeFiles/sanning_rien_csc402prog6.dir/MyQueue.cpp.o	caea2ce0c13136ae
+13	1201	1731366248683467298	CMakeFiles/sanning_rien_csc402prog6.dir/MyQueue.cpp.o	caea2ce0c13136ae
+11	1465	1731366248680969914	CMakeFiles/sanning_rien_csc402prog6.dir/main.cpp.o	549e79b1cd1490e5
+1466	1591	1731366250135935577	sanning_rien_csc402prog6	23393ad88d3326d9
+16	1224	1731366385478426489	CMakeFiles/sanning_rien_csc402prog6.dir/MyQueue.cpp.o	caea2ce0c13136ae
+12	1479	1731366385473860486	CMakeFiles/sanning_rien_csc402prog6.dir/main.cpp.o	549e79b1cd1490e5
+1479	1591	1731366386940431147	sanning_rien_csc402prog6	23393ad88d3326d9
+25	1238	1731367346059664828	CMakeFiles/sanning_rien_csc402prog6.dir/MyQueue.cpp.o	caea2ce0c13136ae
+19	1848	1731367346053052578	CMakeFiles/sanning_rien_csc402prog6.dir/main.cpp.o	549e79b1cd1490e5
+1848	1959	1731367347882109081	sanning_rien_csc402prog6	23393ad88d3326d9
+17	2215	1731367487972961245	CMakeFiles/sanning_rien_csc402prog6.dir/main.cpp.o	549e79b1cd1490e5
+2216	2324	1731367490171984847	sanning_rien_csc402prog6	23393ad88d3326d9
+9	1481	1731367550537234068	CMakeFiles/sanning_rien_csc402prog6.dir/main.cpp.o	549e79b1cd1490e5
+1481	1571	1731367552009820276	sanning_rien_csc402prog6	23393ad88d3326d9
+8	1390	1731367644681428890	CMakeFiles/sanning_rien_csc402prog6.dir/main.cpp.o	549e79b1cd1490e5
+1391	1499	1731367646064278981	sanning_rien_csc402prog6	23393ad88d3326d9
+13	2827	1731367705368692660	CMakeFiles/sanning_rien_csc402prog6.dir/main.cpp.o	549e79b1cd1490e5
+2827	2913	1731367708182934877	sanning_rien_csc402prog6	23393ad88d3326d9
+13	799	1731367831708640253	CMakeFiles/sanning_rien_csc402prog6.dir/MyQueue.cpp.o	caea2ce0c13136ae
+11	1327	1731367831706794349	CMakeFiles/sanning_rien_csc402prog6.dir/main.cpp.o	549e79b1cd1490e5
+1327	1418	1731367833022373610	sanning_rien_csc402prog6	23393ad88d3326d9

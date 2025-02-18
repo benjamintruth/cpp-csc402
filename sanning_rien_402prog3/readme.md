@@ -1,0 +1,1 @@
+exit code 1 is an error that signifies trying to pop or deque an empty stack / queue. It also won't occur, or shouldn't.
